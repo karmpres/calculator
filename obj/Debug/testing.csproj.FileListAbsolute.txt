@@ -1,0 +1,10 @@
+C:\Users\Present\source\repos\testing\bin\Debug\testing.exe.config
+C:\Users\Present\source\repos\testing\bin\Debug\testing.exe
+C:\Users\Present\source\repos\testing\bin\Debug\testing.pdb
+C:\Users\Present\source\repos\testing\obj\Debug\testing.csprojAssemblyReference.cache
+C:\Users\Present\source\repos\testing\obj\Debug\testing.Properties.Resources.resources
+C:\Users\Present\source\repos\testing\obj\Debug\testing.csproj.GenerateResource.cache
+C:\Users\Present\source\repos\testing\obj\Debug\testing.csproj.CoreCompileInputs.cache
+C:\Users\Present\source\repos\testing\obj\Debug\testing.exe
+C:\Users\Present\source\repos\testing\obj\Debug\testing.pdb
+C:\Users\Present\source\repos\testing\obj\Debug\testing.Calculator.resources
